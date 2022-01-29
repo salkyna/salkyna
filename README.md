@@ -1,4 +1,4 @@
-![This is an image](https://github.com/salkyna/salkyna/blob/main/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png | width = 100)
+![This is an image](https://github.com/salkyna/salkyna/blob/main/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png=100x250)
 
 # Hello, World! 
 
