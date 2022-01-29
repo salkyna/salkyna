@@ -8,7 +8,7 @@ I’m Aisalkyn Abdyvalieva.
 
 🎓 Pursuing master's degree in Computer Engineering  
 🧠 Brainstorming on my master's thesis  
-👩🏻‍💻 On track to deep dive in Generative Adversarial Networks  
+👩🏻‍💻 On track to deep dive in Knowledge Graphs  
 👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL 
 
 ### Objective:
