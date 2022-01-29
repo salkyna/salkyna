@@ -1,4 +1,4 @@
-<img src="https://github.com/salkyna/salkyna/blob/main/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png" width="1000" height="300">
+<img src="https://github.com/salkyna/salkyna/blob/main/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png" width="1000" height="350">
 
 # Hello, World! 
 
