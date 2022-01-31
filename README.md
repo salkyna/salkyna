@@ -18,7 +18,7 @@ I’m Aisalkyn Abdyvalieva.
 ### Past:
 
 🎓 B.Sc. in Electrical and Electronics Engineering  
-👷🏻‍♀️ 3 years of experience in the construction industry as a Technical Office and Site Electrical Engineer    
+👷🏻‍♀️ 3 years of experience in the construction industry as an Electrical Engineer and Extra Low Voltage Testing & Commissioning Engineer.    
 
 ### More Bio:
 
