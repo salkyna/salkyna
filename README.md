@@ -2,34 +2,34 @@
 
 # Salam, World! 
 
-I’m Aisalkyn Abdyvalieva.
+I’m Aisalkyn Abdyvalieva.  
 
-### Status:
+### Status:  
 
 🎓 Pursuing master's degree in Artificial Intelligence    
-👩🏻‍💻 On track to start my research in the field of Computational Linguistics 
-👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL 
+👩🏻‍💻 On track to start my research in the field of Computational Linguistics  
+👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL  
 
-### Objective:
+### Objective:  
 
-👩🏻‍💼 Aim at joining a top-notch Research / Applied Science team and keep on contributing to exciting and impactful projects!
+👩🏻‍💼 Aim at joining a top-notch Research / Applied Science team and keep on contributing to exciting and impactful projects!  
 
-### Past:
+### Past:  
 
 🎓 B.Sc. in Electrical and Electronics Engineering  
 👷🏻‍♀️ 3 years of experience in the construction industry as an Electrical Engineer and Extra Low Voltage Testing & Commissioning Engineer.    
 
-### More Bio:
+### More Bio:  
 
-🇬🇧 Based in the UK, busy with my master's studies  
+🇬🇧 Based in the UK, busy with my master's studies   
 🇰🇬 My primary home  
 🇹🇷 My second home  
 🇰🇿 My third home  
 
 👨‍👩‍👧 A full-time mother and wife  
-Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic      
+💡 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic       
 💥 Enthusiastic about Etymology  
-🧸 In my free of everything time, solve sudoku and try to spend the best quality time with my daughter. 
+🧸 In my free of everything time, solve sudoku and try to spend the best quality time with my daughter.  
 ✉️ You can email me at salkyna@rocketmail.com  
 
 ### Tech Stack:
