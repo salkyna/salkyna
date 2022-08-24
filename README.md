@@ -1,6 +1,6 @@
 <img src="https://github.com/salkyna/salkyna/blob/main/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png" width="800" height="350">
 
-# Hello, World! 
+# Salam, World! 
 
 I’m Aisalkyn Abdyvalieva.
 
@@ -22,10 +22,10 @@ I’m Aisalkyn Abdyvalieva.
 
 ### More Bio:
 
-🇬🇧 Based in the UK, busy with my master's studies
-🇰🇬 My primary home
-🇹🇷 My second home
-🇰🇿 My third home
+🇬🇧 Based in the UK, busy with my master's studies  
+🇰🇬 My primary home  
+🇹🇷 My second home  
+🇰🇿 My third home  
 
 👨‍👩‍👧 A full-time mother and wife  
 🌈 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic      
