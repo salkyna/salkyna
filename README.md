@@ -22,10 +22,13 @@ I’m Aisalkyn Abdyvalieva.
 
 ### More Bio:
 
-🇹🇷 Based in Turkey   
-🇰🇬 Born and raised in Kyrgyzstan  
+🇬🇧 Based in the UK, busy with my master's studies
+🇰🇬 My primary home
+🇹🇷 My second home
+🇰🇿 My third home
+
 👨‍👩‍👧 A full-time mother and wife  
-🌈 Fluent in English, Turkish and Russian. Good command of German. Beginner learner of Arabic      
+🌈 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic      
 💥 Enthusiastic about Etymology  
 🧸 In my free time, solve sudoku and together with my daughter dive in the worlds of botany, zoology and geography  
 ✉️ You can email me at salkyna@rocketmail.com  
