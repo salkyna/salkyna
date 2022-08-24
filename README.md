@@ -6,9 +6,8 @@ I’m Aisalkyn Abdyvalieva.
 
 ### Status:
 
-🎓 Pursuing master's degree in Computer Engineering  
-🧠 Brainstorming on my master's thesis  
-👩🏻‍💻 On track to deep dive in Knowledge Graphs  
+🎓 Pursuing master's degree in Artificial Intelligence    
+👩🏻‍💻 On track to start my research in the field of Computational Linguistics 
 👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL 
 
 ### Objective:
@@ -28,9 +27,9 @@ I’m Aisalkyn Abdyvalieva.
 🇰🇿 My third home  
 
 👨‍👩‍👧 A full-time mother and wife  
-🌈 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic      
+Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic      
 💥 Enthusiastic about Etymology  
-🧸 In my free time, solve sudoku and together with my daughter dive in the worlds of botany, zoology and geography  
+🧸 In my free of everything time, solve sudoku and try to spend the best quality time with my daughter. 
 ✉️ You can email me at salkyna@rocketmail.com  
 
 ### Tech Stack:
