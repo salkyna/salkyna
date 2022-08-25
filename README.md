@@ -21,15 +21,12 @@ I’m Aisalkyn Abdyvalieva.
 
 ### More Bio:  
 
-🇬🇧 Based in the UK, busy with my master's studies   
-🇰🇬 My primary home  
-🇹🇷 My second home  
-🇰🇿 My third home  
+🇰🇬🇹🇷🇰🇿🇬🇧  
 
-👨‍👩‍👧 A full-time mother and wife  
+👨‍👩‍👧 A full-time mother and wife   
 💡 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic       
 💥 Enthusiastic about Etymology  
-🧸 In my free of everything time, solve sudoku and try to spend the best quality time with my daughter.  
+🧸 In my free of everything time, solve sudoku and try to spend the best of the quality time with my family.  
 ✉️ You can email me at salkyna@rocketmail.com  
 
 ### Tech Stack:
