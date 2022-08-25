@@ -9,6 +9,7 @@ I’m Aisalkyn Abdyvalieva.
 🎓 Pursuing master's degree in Artificial Intelligence    
 👩🏻‍💻 On track to start my research in the field of Computational Linguistics  
 👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL  
+🔥 Passionate about Algorithmic Trading and Quant Research
 
 ### Objective:  
 
@@ -23,7 +24,7 @@ I’m Aisalkyn Abdyvalieva.
 
 🇰🇬🇹🇷🇰🇿🇬🇧  
 
-👨‍👩‍👧 A full-time mother and wife         
+:family: A full-time mother and wife          
 💡 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic       
 💥 Enthusiastic about Etymology  
 🧸 In my free of everything time, solve sudoku and try to spend the best of the quality time with my family.  
