@@ -24,7 +24,7 @@ I’m Aisalkyn Abdyvalieva.
 
 🇰🇬🇹🇷🇰🇿🇬🇧  
 
-:family: A full-time mother and wife          
+:family_man_woman_girl: A full-time mother and wife          
 💡 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic       
 💥 Enthusiastic about Etymology  
 🧸 In my free of everything time, solve sudoku and try to spend the best of the quality time with my family.  
