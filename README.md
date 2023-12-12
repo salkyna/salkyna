@@ -17,7 +17,7 @@ I’m Aisalkyn Abdyvalieva.
         
 💡 Fluent in English, Kyrgyz,Russian and Turkish. Good command of Kazakh and German. Learning Arabic.    
 💥 Enthusiastic about Etymology  
-🧸 In my leisure time, solve sudoku and try to spend the best of the quality time with my family.  
+🧸 In my leisure time, solve sudoku and spend time with my family.  
 ✉️ You can email me at salkyna@rocketmail.com  
 
 ### Tech Stack:
