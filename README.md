@@ -7,11 +7,8 @@ I’m Aisalkyn Abdyvalieva.
 ### Status:  
 
 👩🏻‍💻 Actively looking for Graduate / Junior Trader / Quant Trader / Quant Researcher roles. 
-
 🎓 MSc in AI 
-
-🎓 BSc in Electrical and Electronics Engineering
-
+🎓 BSc in Electrical and Electronics Engineering 
 🔥 Passionate about Algorithmic Trading and Quant Research
 
 ### More Bio:  
