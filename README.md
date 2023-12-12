@@ -6,28 +6,18 @@ I’m Aisalkyn Abdyvalieva.
 
 ### Status:  
 
-🎓 Pursuing master's degree in Artificial Intelligence    
-👩🏻‍💻 On track to start my research in the field of Computational Linguistics  
-👀 Actively looking for an internship opportunity in the fields of AI / DS / ML / DL  
+👩🏻‍💻 Actively looking for Graduate / Junior Trader / Quant Trader / Quant Researcher roles. 
+🎓 MSc in AI 
+🎓 BSc in Electrical and Electronics Engineering
 🔥 Passionate about Algorithmic Trading and Quant Research
-
-### Objective:  
-
-👩🏻‍💼 Aim at joining a top-notch Research / Applied Science team and keep on contributing to exciting and impactful projects!  
-
-### Past:  
-
-🎓 B.Sc. in Electrical and Electronics Engineering  
-👷🏻‍♀️ 3 years of experience in the construction industry as an Electrical Engineer and Extra Low Voltage Testing & Commissioning Engineer.    
 
 ### More Bio:  
 
-🇰🇬🇹🇷🇰🇿🇬🇧  
-
-:family_man_woman_girl: A full-time mother and wife          
-💡 Fluent in English, Turkish and Russian. Good command of Kyrgyz, Kazakh and German. Beginner learner of Arabic       
+🇰🇬🇹🇷🇰🇿🇬🇧🇵🇸  
+        
+💡 Fluent in English, Kyrgyz,Russian and Turkish. Good command of Kazakh and German. Learning Arabic.    
 💥 Enthusiastic about Etymology  
-🧸 In my free of everything time, solve sudoku and try to spend the best of the quality time with my family.  
+🧸 In my leisure time, solve sudoku and try to spend the best of the quality time with my family.  
 ✉️ You can email me at salkyna@rocketmail.com  
 
 ### Tech Stack:
@@ -64,5 +54,5 @@ I’m Aisalkyn Abdyvalieva.
 
 ### Social:
 
-<a href="https://linkedin.com/in/aisalkynabdyvalieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aisalkynabdyvalieva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salkyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salkyna" height="30" width="40" /></a>
 
